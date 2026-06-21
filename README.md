@@ -1,12 +1,10 @@
-                                              NK-AdvancedCollector_Pro
-
-
 <div align="center">
-
-
-<sub></sub><img width="256" height="256" alt="icon_256" src="https://github.com/user-attachments/assets/049c8a55-889b-4def-b1fa-49dafd12114b" />
-
+  
 # NK Advanced Collector Pro
+
+<sub></sub><img width="1024" height="1024" alt="icon_256" src="https://github.com/Nitinkashyap96/NK-AdvancedCollector_Pro/blob/main/icons/icon_256.png" />
+
+
 
 **A multi-threaded asset collection and archiving tool for Foundry Nuke**
 

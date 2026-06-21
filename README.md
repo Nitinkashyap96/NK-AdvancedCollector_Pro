@@ -446,14 +446,14 @@ Licensed under the **GNU General Public License v3.0** — see [LICENSE](LICENSE
   <a href="https://www.linkedin.com/in/nitin-kashyap-8541213a6/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
          alt="LinkedIn" 
-         style="width: 250px; height: auto;" />
+         style="width: 100px; height: auto;" />
   </a>
 
 
   <a href="https://youtu.be/1U4bhtptPwo">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" 
          alt="YouTube" 
-         style="width: 270px; height: auto;" />
+         style="width: 110px; height: auto;" />
   </a>
 </div>
 
